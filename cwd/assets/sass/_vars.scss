@@ -1,0 +1,47 @@
+/*==============================
+=            COLORS            =
+==============================*/
+$blue: #334D5C;
+$blue-light: lighten($blue,20%);
+$blue-dark: darken($blue,20%);
+
+$cyan: #45B29D;
+$cyan-light: lighten($cyan,20%);
+$cyan-dark: darken($cyan,20%);
+
+$yellow: #EFC94C;
+$yellow-light: lighten($yellow,20%);
+$yellow-dark: darken($yellow,20%);
+
+$orange: #E27A3F;
+$orange-light: lighten($orange,20%);
+$orange-dark: darken($orange,20%);
+
+$red: #DF5A49;
+$red-light: lighten($red,20%);
+$red-dark: darken($red,20%);
+
+$black: #282828;
+
+
+
+
+$dull:  $blue;
+$dull-light:  $blue;
+
+$bright: $yellow;
+$bright-dark: darken(adjust-hue($yellow,-5deg),10%);
+
+
+$grey: #e3e3e3;
+$dark-grey: #333;
+$medium-grey: #B1B1B1;
+$medium-grey-light: lighten($medium-grey,20%);
+$medium-dark-grey: #9a9a9a;
+$light-grey: #efefef;
+
+
+$sober-green: #789278;
+
+$dark-font-color:  $dark-grey;
+
